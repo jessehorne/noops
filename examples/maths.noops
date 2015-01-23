@@ -1,0 +1,5 @@
+var x is op 10 plus 2 cp min 5
+var y is 2 mul 10 div x
+
+print x
+print y

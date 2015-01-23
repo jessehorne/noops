@@ -1,0 +1,5 @@
+x is 1
+if x is 1
+  print hi
+else
+  print bye

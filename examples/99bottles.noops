@@ -1,0 +1,8 @@
+x is 99
+
+loop x 0 id 1
+  print x bottles of beer on the wall
+  print x bottles of beer
+
+  if x isnt 0
+    print take one down, pass it around
